@@ -65,27 +65,13 @@
     "video",
     "download"
   ],
-<<<<<<< HEAD
   "license": "MIT",
-=======
-  "version": "0.1.0",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:benkaiser/youtube-playlist-info.git"
-  },
-  "author": "Benjamin Kaiser",
-  "main": "run.js",
-  "dependencies": {
-    "youtube-api": "*"
-  },
->>>>>>> 5711cf8dc71537c9cfacb1e450a37f03f4e75d89
   "licenses": [
     {
       "type": "MIT",
       "url": "http://github.com/benkaiser/youtube-playlist-info/raw/master/LICENSE"
     }
   ],
-<<<<<<< HEAD
   "main": "run.js",
   "maintainers": [
     {
@@ -104,15 +90,4 @@
     "test": "node test.js"
   },
   "version": "0.1.0"
-=======
-  "bugs": {
-    "url": "https://github.com/benkaiser/youtube-playlist-info/issues"
-  },
-  "homepage": "https://github.com/benkaiser/youtube-playlist-info",
-  "devDependencies": {},
-  "scripts": {
-    "test": "node test.js"
-  },
-  "license": "MIT"
->>>>>>> 5711cf8dc71537c9cfacb1e450a37f03f4e75d89
 }
